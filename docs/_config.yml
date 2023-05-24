@@ -38,7 +38,8 @@ plugins:
 github:
   github_url: github.com/morallito
 
-
+show_downloads: false
+google_analytics: G-T5M8RFB87S
 
 # Exclude from processing.
 # The following items will not be processed, by default.

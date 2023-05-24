@@ -21,8 +21,8 @@
 title: Iago's notebook
 email: iagohenrique22@hotmail.cm
 description: >- # this means to ignore newlines until "baseurl:"
-Hey, welcome to Iago's notebook. I use this as a repo, to store links, docs, and other 
-things that I am currently studying.
+  Hey, welcome to Iago notebook. I use this as a repo, to store links, docs, and other 
+  things that I am currently studying.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "www.iago.zip"

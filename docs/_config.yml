@@ -21,9 +21,9 @@
 title: Iago's notebook
 email: iagohenrique22@hotmail.cm
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Hey, welcome to Iago's notebook. I use this as a repo, to store links, docs, and other 
+things that I am currently studying.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "www.iago.zip"
 url: "https://www.iago.zip" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,6 +34,10 @@ github_username:  morallito
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme 
+
+github:
+  github_url: github.com/morallito
+
 
 
 # Exclude from processing.

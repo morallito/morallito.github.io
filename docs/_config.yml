@@ -1,17 +1,16 @@
 # THIS IS THE BLOG TUTORIAL
 # https://github.com/skills/github-pages
 #
-title: Iago's notebook
-email: iagohenrique22@hotmail.cm
-description: >- 
-  Hey, welcome to Iago's notebook. I use this as a repo, to store links, docs, and other 
-  things that I am currently studying.
+title: iago.zip
 
+description: >- 
+  Ⓒ 2023  Iago Moreira
 baseurl: "" 
 domain: "www.iago.zip"
 url: "https://www.iago.zip"
 twitter_username: morallito
 github_username:  morallito
+linkedin_username: iagohmoreira
 
 theme: minima
 

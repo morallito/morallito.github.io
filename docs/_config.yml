@@ -18,6 +18,11 @@ github:
   github_url: github.com/morallito
 
 show_downloads: false
-google_analytics: G-T5M8RFB87S
+google_analytics: 
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-T5M8RFB87S"
+    anonymize_ip: false # default
 

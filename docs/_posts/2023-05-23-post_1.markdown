@@ -4,7 +4,7 @@ date: 2023-06-02
 ---
 Hey, welcome to `iago.zip`. This is not a blog, but just a way to share my study notes. 
 
-You can find more about me the "author" of this repository at [my cv page](../about.md).
+You can find more about me the "author" of this repository at [my cv page](https://www.iago.zip/cv.html).
 
 Want to connect with me? What about sending a connection request at [LinkedIn](https://www.linkedin.com/in/iagohmoreira/)? Or follow
  me at [GitHub](https://github.com/morallito) ot [twitter](https://twitter.com/morallito)?

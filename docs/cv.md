@@ -17,7 +17,9 @@ path: "/cv"
 # Education
 
 - MSc Candidate at [CEFET-MG](https://www.cefetmg.br/)
+
 - BENG in Mechatronics  Engineering at  [CEFET-MG](https://www.cefetmg.br/)
+
 ---
 
 # Hobbies and curiosities

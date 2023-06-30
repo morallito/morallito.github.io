@@ -1,0 +1,41 @@
+---
+title: "Push your ssh keys to remote linux vm"
+date: 2023-06-29
+---
+
+
+# How to push your ssh keys and configure your ssh file to make easy to login into VM's.
+
+I often find myself configuring a new server, or booting up a new box on my home server. Ths is not a difficult task, but
+always I need to search how to perform this simple steps. This is a guide on how to do this: 
+
+
+## The magic bash
+
+To copy the key to the remote server, you need to use the `ssh-copy-id` command. More details and documentation regarding 
+this script can be founded by running  `man ssh-copy-id`.  I usually keep my keys on the ~/.ssh folder, and i also keep 
+the ssh configs on the ~/.ssh/config file, so it is not difficult to copy my keys to the new VM and configure my access. 
+
+
+In order to copy the keys, and also edit your `~/.ssh/config` you will need to run:
+
+```
+export REMOTE_ADDRESS=
+export REMOTE_USER=
+export PRIVATEKEY_LOCATION=
+ 
+ssh-copy-id  $PRIVATEKEY_LOCATION $REMOTE_USER@$REMOTE_ADDRESS
+
+cat <<EOF >> ~/.ssh/config
+
+Host  ${REMOTE_ADDRESS}
+ HostName ${REMOTE_ADDRESS}
+ User  ${REMOTE_USER}
+ IdentityFile PK_LOCATION
+EOF
+
+```
+
+
+Now you will be able to just `ssh ${REMOTE_ADDRESS}`, with no problems.  Disabling password access 
+to the VM is also recommended.

@@ -5,7 +5,6 @@ date: 2023-07-24
 
 # Grepping everything
 
-
 Often, when working with servers and other restricted applications, the only tool that we have is 
 a command line. In such cases, especially when working with complex bash scripts and automation we 
 need to use tools like `grep`.
@@ -17,7 +16,6 @@ You have a bash script, that imports several other scripts, and you have identif
 one function. The problem is, you don't know in which file this function is implemented, neither can list
 all the places that it is called, so in this case, how can you do it?  For your luck, you are not the first 
 person to face this issue, and we already have a solution for it! The solution is `grep` with the recursive option.
-
 
 To use it is very simple: 
 
@@ -36,12 +34,7 @@ for var in loop_list; do
     cat $var | grep "${string}";
 done
 ```
-
-
 ## More on what is being done
 
 The command `grep -rlF` is using the flags `-r` for recursive, `-l` or ` --files-with-matches` that will print all the 
 files with matches and  `-F` for Fixed strings, that will allow you to search with special characters such as `.` or `?`.
-
-
-

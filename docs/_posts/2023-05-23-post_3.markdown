@@ -1,0 +1,47 @@
+---
+title: "Gepping everything - How to use grep to find files that contains text."
+date: 2023-07-24
+---
+
+# Grepping everything
+
+
+Often, when working with servers and other restricted applications, the only tool that we have is 
+a command line. In such cases, especially when working with complex bash scripts and automation we 
+need to use tools like `grep`.
+
+Well, sometimes the old fashion grep from a pipe is not sufficient to archive what we want. Imagine the 
+following scenario: 
+
+You have a bash script, that imports several other scripts, and you have identified that you have an error in 
+one function. The problem is, you don't know in which file this function is implemented, neither can list
+all the places that it is called, so in this case, how can you do it?  For your luck, you are not the first 
+person to face this issue, and we already have a solution for it! The solution is `grep` with the recursive option.
+
+
+To use it is very simple: 
+
+```
+grep -rlF "<String>" <path_to_Search>
+```
+This will print out all the files with the corresponding string in it. In case you want to see all the lines, 
+just write a for loop: 
+
+```
+string="<String_to_search>"
+loop_list=$(grep -rlF "${string}" <path_to_Search>)
+
+for var in loop_list; do 
+    echo "in ${var}"
+    cat $var | grep "${string}";
+done
+```
+
+
+## More on what is being done
+
+The command `grep -rlF` is using the flags `-r` for recursive, `-l` or ` --files-with-matches` that will print all the 
+files with matches and  `-F` for Fixed strings, that will allow you to search with special characters such as `.` or `?`.
+
+
+

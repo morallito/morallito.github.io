@@ -36,5 +36,5 @@ done
 ```
 ## More on what is being done
 
-The command `grep -rlF` is using the flags `-r` for recursive, `-l` or ` --files-with-matches` that will print all the 
+The command `grep -rlF` is using the flags `-r` for recursive, `-l` or `--files-with-matches` that will print all the 
 files with matches and  `-F` for Fixed strings, that will allow you to search with special characters such as `.` or `?`.

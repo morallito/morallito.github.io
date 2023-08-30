@@ -1,0 +1,88 @@
+---
+title: "Good advices that I have heard from experienced programmers"
+date: 2023-08-30
+---
+
+# Good advices that I have heard from experienced programmers
+
+Today, I will write something that is not related to code, but it is related to the way that I think about code.
+Better saying, what experienced people told me about `writing good` code.
+
+
+## Starting from Scratch vs. Building on Existing Foundations in Your Career
+
+We often hear the phrase, "You almost never start from scratch." This sentiment was beautifully captured by the renowned astrophysicist Carl Sagan when he humorously noted that creating an apple pie from scratch would require first inventing the universe. Reflecting on my nearly four years in my career, I've come to realize that I've never truly initiated a project from scratch.
+
+In the realm of coding and development, everything we create is built upon existing foundations. This concept is not only acceptable but also advantageous. Every line of code I've written has been inspired by something pre-existing, and this is actually a positive aspect of our work.
+
+When embarking on a project from scratch, the sheer magnitude of decisions to be made can be overwhelming. From code structure to file organization, from application architecture to deployment strategies, from testing procedures to monitoring tools—each step demands meticulous planning. Scaling, security, speed, reliability, and more factors come into play. However, there's an alternative path that I've come to value more: building upon existing solutions.
+
+Choosing to work from a foundation that's already in place grants the freedom to concentrate on the core issue at hand. This, in my experience, is nothing short of a treasure. By leveraging existing frameworks, libraries, and codebases, I've been able to focus on solving the problem in front of me without getting bogged down by the nitty-gritty details of infrastructure.
+
+My journey of growth in the field has primarily been shaped by working on projects that were already established. Learning from those who've accumulated more career experience than I've spent years on this Earth has been invaluable. Their guidance has paved the way for me to reach my current position, and it continues to fuel my ongoing learning.
+
+So, to all the young enthusiasts reading this—those who might feel overwhelmed or impatient—I encourage you to take a breath. Progressing in your career does not necessarily mean starting from scratch each time. Embrace the opportunity to learn from existing resources, to build upon the knowledge of those who've come before you. With time and dedication, you'll undoubtedly reach your goals, armed with experience that only grows more valuable as you move forward.
+
+
+## 2 Embracing the Unknown: The Power of Asking Questions in Your Journey
+
+There are moments in our professional lives when we find ourselves navigating through uncharted territory, grappling with concepts that might seem perplexing. This, however, is a natural and valuable part of growth.
+
+A friend once confided in me that he hesitated to ask questions out of fear that others might perceive him as unintelligent. This apprehension is not uncommon. In fact, psychologist Jordan Peterson's words resonate deeply: "If you're the smartest person in the room, you're in the wrong room." Moreover, his insight that the fear of appearing ignorant stifles genuine learning holds undeniable truth.
+
+In reality, comprehending every intricacy of a task is a lofty goal that remains elusive. It's perfectly acceptable not to grasp all the components involved or to have complete visibility into every facet of a process. This is an essential realization: you don't have to possess all-encompassing knowledge; you must simply understand the task at hand and the impact your code will wield upon the system.
+
+In the face of uncertainty, remember that curiosity is your ally. The decision to question, to seek clarification, is a powerful stride toward mastery. By engaging in discourse and reaching out for insights, you're actively participating in your own growth. This approach not only dispels the shadows of doubt but also fosters an environment of continuous learning.
+
+The essence of progress lies in acknowledging your current state of understanding while being unafraid to explore the unknown. Like a canvas awaiting brushstrokes, your mind is open to receive insights, brushstrokes of knowledge that gradually unveil the bigger picture. This is where innovation thrives—when you step out of your comfort zone, when you embrace that which you do not yet know.
+
+So, fellow explorers of the professional realm, I encourage you to shed the notion that every answer must lie within your grasp from the outset. Embrace the uncertainty, welcome questions, and seek knowledge with an open heart and mind. For it's through these actions that we evolve, both personally and professionally, carving a path of growth that leads to deeper understanding and achievement.
+
+
+## 3 Navigating the Sea of Knowledge: Learning to Find What You Need
+
+In the ever-evolving landscape of knowledge and expertise, a simple yet profound truth emerges: you don't need to hold the universe of information in your mind; you just need to master the art of finding the right information when you need it.
+
+During your academic journey, you might recall instances where teachers urged you to solve problems independently, without the aid of the internet. This approach has its merits, especially when building a foundation of language fundamentals and core concepts. However, as you transition to the professional realm, you'll come to realize that real-world challenges are often intricate, layered with numerous variables that necessitate a broader scope of information.
+
+In the professional world, relying on the internet as a resource is not just acceptable; it's essential. The challenges you face won't always be neatly outlined in textbooks. They will be dynamic, multifaceted puzzles that demand creative solutions. Here's where your ability to navigate the sea of online resources comes into play.
+
+The concept of "knowing how to learn" is a cornerstone of success in the digital age. Embrace the fact that you will encounter scenarios that require unfamiliar solutions. Your journey will involve absorbing knowledge as you go, adapting to new tech stacks, and addressing complex problems that continue to push the boundaries of your expertise.
+
+It's easy to fall into the trap of thinking you need to have it all figured out, that every course or technology stack must be mastered before tackling a challenge. However, this mindset can hinder your growth. Instead, venture into the unknown, enter the realm of discomfort, and allow your curiosity to guide you. Be pragmatic in your approach—learn the skills and tools that directly address the challenges at hand.
+
+So, if you find yourself contemplating whether to enroll in yet another course or delve into a specific tech stack, take a step back and assess. Recognize that the key lies in the ability to discern what knowledge is required to address your immediate challenges. Trust in your capacity to learn on the fly, to find answers when needed, and to continually adapt as the professional landscape evolves.
+
+In this journey of perpetual learning, remember that you're not alone. A vast digital universe of resources, forums, and communities is at your fingertips, waiting to offer insights and solutions. Embrace the uncertainty, embrace the process, and rest assured that while you may not know everything, you certainly possess the skills to find what you need when it matters most.
+
+## The Heart of Programming: A Symphony of People and Solutions
+
+In the realm of programming, it becomes evident that the heart and soul of the craft transcend lines of code, embracing the realm of human challenges and aspirations. Programming is, at its core, a vehicle for solving real-world problems faced by people—this truth lies at the nexus of its power and significance.
+
+Indeed, your role as a programmer is not merely to write lines of code; it's to be a solution provider, a troubleshooter, and an enabler of progress. In this dance between technology and humanity, a poignant insight from the late Steve Jobs echoes profoundly: "You've got to start with the customer experience and work backwards to the technology."
+
+Understanding the Problem: At the epicenter of your endeavors lies the art of comprehending the problems you're tasked with solving. Every intricate line of code you write should be weaved with a deep understanding of the issue at hand. It's a dance of empathy and logic—an exploration into the essence of the challenge, be it in crafting software that streamlines operations or creating applications that amplify accessibility.
+
+Understanding the People: Embedded within the heart of any solution are the people for whom it's intended. Your code doesn't merely interact with machines; it's a bridge that connects individuals, making their lives more efficient, fulfilling, or enjoyable. The intricate interplay between technology and user experience underscores the essence of your work.
+
+The Symphony of Craft and Compassion: The essence of successful programming lies in the symphony you orchestrate between the elegance of your code and the needs of people. This symphony harmonizes with the principles of user-centered design and the empathy needed to craft solutions that genuinely resonate with users.
+
+Beyond the Code: While code is the means, the end goal is transformation. Your company doesn't hire you solely to write lines of code; they invest in your capacity to deliver solutions that catalyze change. Your role is that of a change-maker, a problem solver, and an enabler of progress.
+
+So, as you journey through the intricate world of programming, remember that it's not merely about algorithms, frameworks, or syntax—it's about understanding the intricacies of the challenges you're confronting and the lives you're impacting. Every keystroke is a stroke of empathy, every line of code a brushstroke of transformation. As you navigate this terrain, guided by insights from pioneers like Steve Jobs, remember that the true measure of your success lies not in the code you write, but in the problems you solve and the lives you touch.
+
+## Navigating the Path of Growth: From Solving Problems to Guiding Solutions
+
+At this juncture of my journey, the horizon is adorned with the promise of growth—a journey that transcends the lines of code and enters the realm of decision-making and executive thinking. It's a shift, a transformation, where the code becomes a vessel, and the real challenge becomes navigating the currents of keeping a solution alive, fostering its growth, and eventually propelling it into the market.
+
+Learning the Mind of an Executive: The realm of executives is a landscape where strategy, vision, and decision-making reign supreme. To traverse this realm effectively, it's imperative to grasp not just what the solution does, but how it aligns with broader business goals. Understanding the language of executives, the metrics that matter, and the ways in which decisions ripple through the organization become skills as crucial as the lines of code you write.
+
+Decision-Making as a Guiding Light: Executives are tasked with making decisions that shape the course of projects and organizations. Learning the art of decision-making isn't just about choosing between alternatives; it's about evaluating risk, weighing benefits, and aligning actions with the overarching goals of the project.
+
+From Solution to Strategy: Your project isn't just a solution; it's a strategic piece in the puzzle of progress. Nurturing its growth requires mapping its evolution against market trends, user needs, and potential disruptions. This is where strategy steps in, the compass that guides your efforts towards a future where your project becomes a thriving reality.
+
+Fostering Growth: Just as you've tended to lines of code, tending to growth requires a mix of nurturing and calculated risk-taking. It's a balance of knowing when to scale, when to pivot, and when to double down on what's working.
+
+A Glimpse into the Future: As I pen down these thoughts, I'm reminded that this is but a snapshot, a waypoint in my journey. I envision looking back at these words years from now, tracing the path I've tread and marveling at the growth, not just in knowledge but in the ability to steer solutions towards success.
+
+The Canvas Awaits: The canvas of executive thinking and growth is expansive, waiting to be painted with a symphony of strategic choices, insightful decisions, and transformative progress. As I embark on this leg of my journey, I carry with me the knowledge that growth isn't just about lines of code—it's about the vision that propels them, the strategies that guide them, and the impact they make on the lives they touch. Here's to the path ahead, where every step leads not just to success but to a legacy of innovation and transformation.

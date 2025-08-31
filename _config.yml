@@ -1,0 +1,57 @@
+# Site
+name: 'morallito.dev'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+logo: 'assets/images/morallito_logo.png'
+favicon: 'assets/images/morallito_logo.png'
+baseurl: ''
+disqus: 'demowebsite'
+email: 'wowthemesnet@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    morallito:
+      name:           morallito
+      site:           morallito.dev
+      avatar:         assets/images/morallito_logo.png
+      bio:            "Hi, I am morallito, a DevSecops engineer that writes about DevOps related topics. "
+      email:          morallito@morallito.dev
+
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: morallito
+      avatar: /assets/images/morallito_logo.png
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

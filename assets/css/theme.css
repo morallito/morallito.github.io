@@ -808,6 +808,21 @@ a.a2a_i, i.a2a_i, .a2a_menu a.a2a_i:visited, .a2a_menu a.a2a_more {
     color:#999 !important;
 }
 div.a2a_full_footer {display:none;}
+
+/* Custom red styling for AddToAny share buttons */
+.a2a_default_style a:link, 
+.a2a_default_style a:visited {
+    background-color: #ff0000 !important;
+}
+.a2a_default_style a:hover {
+    background-color: #cc0000 !important;
+}
+.a2a_default_style .a2a_svg {
+    background-color: #ff0000 !important;
+}
+.a2a_default_style a:hover .a2a_svg {
+    background-color: #cc0000 !important;
+}
 @media (min-width: 1920px) {
 	html {font-size:17px;}
 	.container, .container-lg {    
